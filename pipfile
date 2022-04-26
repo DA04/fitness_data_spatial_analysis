@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+psycopg2 = "*"
+pandas = "*"
+pyproj = "*"
+geopandas = "*"
+shapely = "*"
+folium = "*"
+branca = "*"
+h3pandas = "*"
+osmnx = "*"
+
+[dev-packages]
+
+[requires]
